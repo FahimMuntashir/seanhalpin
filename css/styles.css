@@ -62,4 +62,26 @@ span {
 .skill-row{
   width: 50%;
   margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.chillies-img{
+  width: 25%;
+  float: right;
+  margin-left:   30px;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.computer-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
