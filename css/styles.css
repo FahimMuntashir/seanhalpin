@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
 h1 {
   margin: 0;
   font-family: 'Sacramento', cursive;
@@ -19,20 +26,29 @@ h3 {
 
 }
 
-body {
-  margin: 0;
-  text-align: center;
-  font-family: 'Merriweather', serif;
-}
 
 .top-container {
-  background-color: #ffe2bc;
+  background-color: #222831;
   position: relative;
   padding: 100px;
 }
 
 .middle-container {
+margin: 100px 0;
 
+}
+
+.intro{
+  width: 30%;
+margin: auto;
+line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
 }
 .profile{
   margin-top: 80px;
@@ -84,4 +100,10 @@ span {
   width: 25%;
   float: left;
   margin-right: 30px;
+}
+
+.contact-massage{
+  width: 40%;
+  margin: 40px auto 60px;
+
 }
