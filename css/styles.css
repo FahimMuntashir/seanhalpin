@@ -3,12 +3,15 @@ h1{
 }
 body{
   margin: 0;
+  text-align: center;
+
 }
 
 
 .top-container{
   background-color: #ffe2bc;
-  margin: 0;
+  position: relative;
+  padding: 100px;
 }
 .middle{
   height: 200px;
@@ -22,4 +25,22 @@ body{
   margin: 0;
   width: 200px;
   background-color: green;
+}
+span{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  border: 300px;
+  left: 300px;
+
 }
