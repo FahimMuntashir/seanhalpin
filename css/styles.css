@@ -1,15 +1,22 @@
 h1 {
   margin: 0;
   font-family: 'Sacramento', cursive;
-  font-size: 70px;
+  font-size: 5.2rem;
+  color: #66BFBF;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  margin-top: 10px;;
+
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
 }
 
 body {
@@ -24,22 +31,17 @@ body {
   padding: 100px;
 }
 
-.middle {
-  height: 200px;
-  width: 200px;
-  background-color: red;
-  margin: 0;
+.middle-container {
+
 }
 
-.bottom {
-  height: 200px;
-  margin: 0;
-  width: 200px;
-  background-color: green;
+.bottom-container {
+
 }
 
 span {
   text-decoration: underline;
+
 }
 
 .top-cloud {
