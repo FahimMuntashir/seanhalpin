@@ -34,6 +34,9 @@ body {
 .middle-container {
 
 }
+.profile{
+  margin-top: 80px;
+}
 
 .bottom-container {
 
@@ -54,4 +57,9 @@ span {
   position: absolute;
   border: 300px;
   left: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
 }
